@@ -1,0 +1,56 @@
+
+body#addDeveloper_background{
+    background: grey
+}
+
+.myfonts{
+    font-family:Tahoma, sans-serif !important;
+    font-weight: bolder
+}
+#DMA_logo{
+    border-radius: 50%;
+}
+#DMA_options{
+    position: sticky !important;
+    top: 0;
+    z-index: 1001;
+}
+.adding{
+    background-color: transparent !important;
+    border: 3px solid red !important;
+}
+.add_in_team{
+    background-color: transparent !important;
+    border: 3px solid blue !important;
+}
+#dev_heading{
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 4em !important;
+}
+form,form input{
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold
+}
+form#add_form{
+    background-image: url('../images/DMA logo.png');
+    background-repeat: no-repeat;
+    background-position: 50% 5%;
+    background-size: 200px;
+}
+.developers{
+    padding: 0px 2%;
+}
+.card{
+    width: 367px;
+    margin:  1% !important;
+    display: inline-block;
+}
+table,tr{
+    border: none !important;
+}
+.mytextstyle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
